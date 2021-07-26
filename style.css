@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,300&display=swap');
+
+.hover {
+
+    width: 100%;
+
+}
+
+.hover:hover {
+
+    width: 130%;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+
+}

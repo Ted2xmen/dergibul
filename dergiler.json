@@ -6,8 +6,78 @@
         "image": "https://dergipark.org.tr/media/cache/journal_croped/1ee7/987d/0e55/602514d66e10c.jpg",
         "number": "Yılda 2 Defa",
         "index": [ "TR Dizin", "EBSCO", "ASOS"],
+        "true":  2018,
         "dipnot":  ["APA" ,"Chicago"]
     },
+
+
+    { 
+        "name": "Anatolian Research",
+        "publisher": "Istanbul University",
+        "url": "https://dergipark.org.tr/en/pub/iuanadolu",
+        "image": "https://dergipark.org.tr/media/cache/journal_croped/26ca/6cbe/8a27/602924237ee75.jpg",
+        "number": "Yılda 1 Defa",
+        "index": ["TR Dizin"],
+        "true": 1955,
+        "dipnot":  ["APA" ,"Chicago"]
+    },
+
+
+    { 
+        "name": "Atatürk Araştırma Merkezi Dergisi",
+        "publisher": " Atatürk Araştırma Merkezi",
+        "url": "https://dergipark.org.tr/en/pub/aamd",
+        "image": "https://dergipark.org.tr/media/cache/journal_croped/9571/d92f/5357/5bab30c8c204b.jpg",
+        "number": "Yılda ? Defa",
+        "index": ["SOBIAD", "EBSCO"],
+        "true": 1984,
+        "dipnot":  ["APA" ,"Chicago"]
+    },
+
+    { 
+        "name": "Türkiyat Araştırmaları Enstitüsü Dergisi",
+        "publisher": " Atatürk Üniversitesi",
+        "url": "https://dergipark.org.tr/en/pub/ataunitaed",
+        "image": "https://dergipark.org.tr/media/cache/journal_croped/ddb3/fb12/d3d4/5fa44ea8b2213.jpg",
+        "number": "Yılda 3 Defa",
+        "index": ["SOBIAD", "EBSCO", "TR Dizin", "ASOS"],
+        "true": 1995,
+        "dipnot":  ["APA" ,"Chicago"]
+    },
+
+    { 
+        "name": "Belgi Dergisi",
+        "publisher": " Pamukkale University",
+        "url": "https://dergipark.org.tr/en/pub/belgi",
+        "image": "https://dergipark.org.tr/media/cache/journal_croped/5df0/cc34/f411/60156a4de2eb3.jpg",
+        "number": "Yılda 1 Defa",
+        "index": [],
+        "true": 2011,
+        "dipnot":  ["APA" ,"Chicago"]
+    },
+
+    { 
+        "name": "Belleten",
+        "publisher": "Türk Tarih Kurumu",
+        "url": "https://dergipark.org.tr/en/pub/belgi",
+        "image": "https://dergipark.org.tr/media/cache/journal_croped/6f60/d6ff/d913/607937cace2a2.jpg",
+        "number": "Yılda 3 Defa",
+        "index": [],
+        "true": 1937,
+        "dipnot":  ["APA" ,"Chicago"]
+    },
+
+    { 
+        "name": "Bilig",
+        "publisher": "Akhmet Yassawi University",
+        "url": "https://dergipark.org.tr/en/pub/belgi",
+        "image": "https://dergipark.org.tr/media/cache/journal_croped/4a60/3539/8085/5c2f501d6ab39.jpg",
+        "number": "Yılda 4 Defa",
+        "index": ["TR Dizin", "Scopus", "SSCI"],
+        "true": 1996,
+        "dipnot":  ["APA" ,"Chicago"]
+    },
+
 
     { 
         "name": "Siyasal Bilgiler Fakültesi Dergisi",
@@ -16,6 +86,7 @@
         "image": "https://dergipark.org.tr/media/cache/journal_croped/5deb/1d70/ee73/5c583a1fec792.jpg",
         "number": "Yılda 4 Defa",
         "index": ["Scopus", "TR Dizin", "EBSCO", "ASOS"],
+        "true":  1943,
         "dipnot":  ["APA" ,"Chicago"]
     }
 
