@@ -88,6 +88,16 @@
         "index": ["Scopus", "TR Dizin", "EBSCO", "ASOS"],
         "true":  1943,
         "dipnot":  ["APA" ,"Chicago"]
+    },
+    { 
+        "name": "Medeniyet ve Toplum Dergisi",
+        "publisher": "Necmettin Erbakan University",
+        "url": "https://dergipark.org.tr/en/pub/metder",
+        "image": "https://dergipark.org.tr/media/cache/journal_croped/b288/1850/70f9/5dc9aebf161df.jpeg",
+        "number": "Yılda 2 Defa",
+        "index": ["Scopus", "TR Dizin", "EBSCO", "ASOS"],
+        "true":   2017,
+        "dipnot":  ["APA" ,"Chicago"]
     }
 
 
